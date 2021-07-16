@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "dd2b2d3856288f0e13ae821fa11f565e0731da41",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2021-07-16 13:38:23",
+    "files": 3,
+    "merge": false,
+    "message": "fix quote_sequences when there are none\n"
+  },
+  "remote": "https://github.com/ropensci-review-tools/autotest",
+  "pkg": "autotest"
+}
