@@ -1,0 +1,31 @@
+# autotest: Automatic Package Testing
+
+Automatic testing of R packages by tracing function calls made in
+examples and tests, then systematically varying the inputs to check that
+functions respond sensibly.
+
+## See also
+
+Useful links:
+
+- <https://docs.ropensci.org/autotest/>
+
+- <https://github.com/ropensci-review-tools/autotest>
+
+- Report bugs at
+  <https://github.com/ropensci-review-tools/autotest/issues>
+
+## Author
+
+**Maintainer**: Mark Padgham <mark.padgham@email.com>
+([ORCID](https://orcid.org/0000-0003-2172-5265))
+
+Authors:
+
+- Mark Padgham <mark.padgham@email.com>
+  ([ORCID](https://orcid.org/0000-0003-2172-5265))
+
+Other contributors:
+
+- Jouni Helske ([ORCID](https://orcid.org/0000-0001-7130-793X))
+  \[contributor\]

@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "eb1f646d58a5e1e4f0ee4452e9d506fb34529cd6",
+    "author": "mpadge <mark.padgham@email.com>",
+    "time": "2026-09-13T13:37:17Z",
+    "files": 4,
+    "merge": false,
+    "message": "tweak readme phrasing\n"
+  },
+  "repo": "https://github.com/ropensci-review-tools/autotest",
+  "pkg": "autotest",
+  "time": "2026-10-13T11:07:36Z"
+}
